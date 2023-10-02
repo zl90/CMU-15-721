@@ -14,4 +14,4 @@ I also learned about Bit Weaving, which allows you to store your indexes as bit 
 This course doesn't have labs or exercises so I'll be making my own.
 
 ### Exercise: Bloom Filters
-One of the data structures mentioned in this course is the Bloom Filter. The Bloom Filter is a "probabalistic data structure". This interested me because I had never heard of it before, so I decided to make my own implementation. You can see the video here on Youtube: https://youtu.be/I2p2Zpir-9c?si=iX7oVQ3f8FcDfmzU
+One of the data structures mentioned in this course is the Bloom Filter. The Bloom Filter is a "probabalistic data structure". This interested me because I had never heard of it before, so I decided to make my own implementation. You can watch me build a C++ implementation of this on Youtube: https://youtu.be/I2p2Zpir-9c?si=iX7oVQ3f8FcDfmzU
